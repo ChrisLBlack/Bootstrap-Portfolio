@@ -32,6 +32,25 @@
  /* portfolio spacing */
 
  .col-4-lg {
-     padding: 2%;
-     margin: 2%;
+     padding: 0;
+     margin: 4%;
  }
+
+/* ------------------ */
+
+/* portfolio text */
+
+.caption {
+    position: absolute;
+    top: 70%;
+    left:0;
+    width: 100%;
+    margin: auto;
+    background: url(../images/dark-grey-terrazzo.png);
+    color: white;
+}
+
+.thumbnail{
+    position:relative;
+
+}
