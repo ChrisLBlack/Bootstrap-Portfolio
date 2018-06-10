@@ -48,6 +48,8 @@
     margin: auto;
     background: url(../images/dark-grey-terrazzo.png);
     color: white;
+    padding-top: 5%;
+    padding-bottom: -5%;
 }
 
 .thumbnail{
