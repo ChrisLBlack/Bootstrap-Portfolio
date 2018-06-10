@@ -1,5 +1,7 @@
  body {
      background: url(../images/dark-grey-terrazzo.png);
+     padding-top:8%;
+     padding-bottom:8%;
  }
 
  .container {
