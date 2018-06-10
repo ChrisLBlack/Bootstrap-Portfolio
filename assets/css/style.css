@@ -4,6 +4,17 @@
      padding-bottom:8%;
  }
 
+ .navbar {
+    font-family: 'Bitter', serif;
+ }
+
+ h2 {
+    font-family: 'Abril Fatface', cursive;
+ }
+p {
+    font-family: 'Catamaran', sans-serif;
+}
+
  .container {
      background-color: #fff;
      border: 1%;
