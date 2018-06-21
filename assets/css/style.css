@@ -11,8 +11,9 @@
  h2 {
     font-family: 'Abril Fatface', cursive;
  }
-p {
+p a{
     font-family: 'Catamaran', sans-serif;
+    color: white;
 }
 
  .container {
